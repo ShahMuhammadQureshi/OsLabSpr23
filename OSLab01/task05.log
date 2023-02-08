@@ -1,0 +1,10 @@
+Script started on 2023-01-27 11:20:23+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="176" LINES="42"]
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ exitsu studentnewuser1[7Pexitsudo adduser newuser2exit[Ksu newuser1[1Pstudent[6Pexit[Kexit[Ksudo passwd newuser1
+[sudo] password for student: 
+New password: 
+Retype new password: 
+passwd: password updated successfully
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2023-01-27 11:21:28+05:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,53 @@
+Script started on 2023-01-27 10:53:26+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="176" LINES="42"]
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ treee[K
+[01;34m.[00m
+├── [01;34mDesktop[00m
+│   ├── [01;35mTask1.png[00m
+│   └── [01;35mTask2.png[00m
+├── [01;34mdirOSLAB[00m
+│   └── [01;34msubDir[00m
+│       └── [01;34msubsubDir[00m
+├── [01;34mDocuments[00m
+├── [01;34mDownloads[00m
+│   ├── [01;35m1123013.jpg[00m
+│   ├── applsci-11-07572-v2.pdf
+│   ├── [01;35mIPT_labk191337.mp4[00m
+│   ├── Kaiwan N Billimoria - Linux Kernel Programming_ A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization-Packt Publishing (2021).pdf
+│   ├── [01;31mKyUlQd.zip[00m
+│   ├── SQopGx.docx
+│   └── [01;35mwp4535363-the-walking-dead-the-telltale-definitive-series-wallpapers.jpg[00m
+├── [01;34mMusic[00m
+├── [01;34mOSLAB[00m
+│   └── [01;34mOSLAB1[00m
+│       └── [01;34mLAB_MATERIAL[00m
+├── [01;34mPictures[00m
+│   ├── [01;35mScreenshot from 2022-08-30 11-18-17.png[00m
+│   ├── [01;35mScreenshot from 2022-08-30 11-18-25.png[00m
+│   ├── [01;35mScreenshot from 2022-08-30 11-18-27.png[00m
+│   ├── [01;35mScreenshot from 2022-10-25 09-32-43.png[00m
+│   ├── [01;35mScreenshot from 2022-10-25 09-37-31.png[00m
+│   ├── [01;35mScreenshot from 2022-10-25 09-40-27.png[00m
+│   ├── [01;35mScreenshot from 2022-10-25 10-16-35.png[00m
+│   ├── [01;35mScreenshot from 2022-10-25 10-20-45.png[00m
+│   └── [01;35mshehbaz.png[00m
+├── [01;34mPublic[00m
+├── screen.log
+├── sheh01.txt
+├── shehbaz.txt
+├── sheh.txt
+├── [01;34msnap[00m
+│   └── [01;34msnap-store[00m
+│       ├── [01;34m599[00m
+│       ├── [01;34m638[00m
+│       ├── [01;34mcommon[00m
+│       └── [01;36mcurrent[00m -> [01;34m638[00m
+├── task02.log
+├── task03.log
+├── [01;34mTemplates[00m
+└── [01;34mVideos[00m
+
+20 directories, 24 files
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2023-01-27 10:53:43+05:00 [COMMAND_EXIT_CODE="0"]

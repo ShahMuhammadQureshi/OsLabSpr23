@@ -1,0 +1,32 @@
+Script started on 2023-01-27 10:40:01+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="176" LINES="42"]
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ ls
+[0m[01;34mDesktop[0m  [01;34mdirOSLAB[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mMusic[0m  [01;34mOSLAB[0m  [01;34mPictures[0m  [01;34mPublic[0m  screen.log  sheh01.txt  shehbaz.txt  sheh.txt  [01;34msnap[0m  [01;34mTemplates[0m  [01;34mVideos[0m
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ cd Desktop
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ cd ..
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ who am i[1Pi[1Pi[1Pi[1Pi[1Pioiaimi
+student
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ sl[K[Kls
+[0m[01;34mDesktop[0m  [01;34mdirOSLAB[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mMusic[0m  [01;34mOSLAB[0m  [01;34mPictures[0m  [01;34mPublic[0m  screen.log  sheh01.txt  shehbaz.txt  sheh.txt  [01;34msnap[0m  [01;34mTemplates[0m  [01;34mVideos[0m
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ cd D[Kmusic[K[K[K[K[KMusic
+]0;student@student-OptiPlex-7090: ~/Music[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Music[00m$ ls
+]0;student@student-OptiPlex-7090: ~/Music[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Music[00m$ cd ..
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ ls
+[0m[01;34mDesktop[0m  [01;34mdirOSLAB[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mMusic[0m  [01;34mOSLAB[0m  [01;34mPictures[0m  [01;34mPublic[0m  screen.log  sheh01.txt  shehbaz.txt  sheh.txt  [01;34msnap[0m  [01;34mTemplates[0m  [01;34mVideos[0m
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ cd Desktop
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ ls
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ ls -i
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ cd..
+cd..: command not found
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ cd 
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ 
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ cd ..
+]0;student@student-OptiPlex-7090: /home[01;32mstudent@student-OptiPlex-7090[00m:[01;34m/home[00m$ cd ..
+]0;student@student-OptiPlex-7090: /[01;32mstudent@student-OptiPlex-7090[00m:[01;34m/[00m$ d
+d: command not found
+]0;student@student-OptiPlex-7090: /[01;32mstudent@student-OptiPlex-7090[00m:[01;34m/[00m$ cd
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ ls
+[0m[01;34mDesktop[0m  [01;34mdirOSLAB[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mMusic[0m  [01;34mOSLAB[0m  [01;34mPictures[0m  [01;34mPublic[0m  screen.log  sheh01.txt  shehbaz.txt  sheh.txt  [01;34msnap[0m  [01;34mTemplates[0m  [01;34mVideos[0m
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2023-01-27 10:42:53+05:00 [COMMAND_EXIT_CODE="0"]
